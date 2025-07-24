@@ -1,0 +1,5 @@
+[package]
+name = "native-cli-ai"
+version = "0.1.0"
+edition = "2021"
+description = "A native Rust CLI  for orchestrating AI agents across projects, with persistent sessions, worktrees, and local-first control."
