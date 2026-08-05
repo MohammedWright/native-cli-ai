@@ -29,3 +29,4 @@ description = "A native Rust CLI  for orchestrating AI agents across projects, w
 # drop an unused branch
 # avoid re-reading the config on every call
 # avoid re-reading the config on every call
+# match the style used in the rest of the module
